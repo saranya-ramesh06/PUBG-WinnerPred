@@ -1,7 +1,6 @@
 #  PUBG Winner Placement Prediction  
-*Project ID: PRCP-1012*
 
-This project focuses on predicting a player’s winning placement percentage (winPlacePerc) in the popular battle royale game *PlayerUnknown’s Battlegrounds (PUBG). Using data from over **4.4 million player stats, we apply **data preprocessing, **feature engineering, **EDA, and various **machine learning models* to build an accurate prediction model.
+This project focuses on predicting a player’s winning placement percentage (winPlacePerc) in the popular battle royale game PlayerUnknown’s Battlegrounds (PUBG). Using data from over *4.4 million* player stats, we apply data preprocessing, feature engineering, EDA, and various machine learning models to build an accurate prediction model.
 
 ---
 
